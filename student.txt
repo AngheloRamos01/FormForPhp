@@ -1,0 +1,14 @@
+Array
+(
+    [0] => Array
+        (
+            [School_Name] => University of the Philippines
+            [School_ID_No] => 1020
+            [Student_ID_No] => 20-2414-890
+            [First_Name] => Anghelo
+            [Last_Name] => Ramos
+            [Middle_Inital] => M
+            [Track] => web tech
+        )
+
+)
